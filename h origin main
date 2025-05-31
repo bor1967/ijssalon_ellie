@@ -1,10 +1,34 @@
-[33mcommit 3d8d73e2f72ac925c5b2d95293fae3fe7ca33ffc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+[33mcommit 4f1e1c81e7eb87c0c60bb0765225cc1259ff29e6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Rob <robkortekaas@hotmail.com>
+Date:   Sat May 31 14:11:57 2025 +0200
+
+    Voeg boekhouding.py en presentatie.py toe aan repository
+
+[33mcommit 297381c7fa89fe9bd52d60473d1c0245c4bc4b27[m
+Author: Rob <robkortekaas@hotmail.com>
+Date:   Fri May 30 13:18:23 2025 +0200
+
+    Eerste commit: basisproject met boekhouding
+
+[33mcommit 3fc190390fdf4c3419dba466112a98aaf7724a50[m
+Author: Rob <robkortekaas@hotmail.com>
+Date:   Tue May 27 11:21:22 2025 +0200
+
+    Toegevoegd: combinatie() functie en import van mijn_functie_2
+
+[33mcommit d10c98abac9eebb620394cb733e9ae2632d3864b[m
+Author: Rob <robkortekaas@hotmail.com>
+Date:   Sat May 24 16:41:36 2025 +0200
+
+    functies toegevoegd
+
+[33mcommit 3d8d73e2f72ac925c5b2d95293fae3fe7ca33ffc[m
 Author: Rob <robkortekaas@hotmail.com>
 Date:   Thu May 22 16:31:54 2025 +0200
 
     bestand helper.py toegevoegd
 
-[33mcommit c570f173392d7a0828f7f52afd53d939a7208e38[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[33mcommit c570f173392d7a0828f7f52afd53d939a7208e38[m
 Author: Rob <robkortekaas@hotmail.com>
 Date:   Thu May 22 10:28:36 2025 +0200
 
